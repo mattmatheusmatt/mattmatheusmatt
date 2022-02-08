@@ -16,21 +16,16 @@
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='30'>](https://www.linkedin.com/in/matheus-silveira-69b597208/)
 
 
-###Projetos
+### Projetos
 
-[oioi](https://www.linkedin.com/in/matheus-silveira-69b597208/)
+[Entendendo banco de dados e sql usando o MySql](https://www.youtube.com/playlist?list=PLP-YI_e9x5kcg1M-uzIpfg8_aS2tSrM0o)
 
-<!--
-**mattmatheusmatt/mattmatheusmatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Análise de dados de hotéis e criação de um relatório usando Power BI](https://www.youtube.com/playlist?list=PLP-YI_e9x5kcsuqMkPFw8tdGiCntcARif)
 
-Here are some ideas to get you started:
+[Análise de dados de um e-commerce e criação de um relatório usando Power BI](https://www.youtube.com/playlist?list=PLP-YI_e9x5kciZZ4FHfsh8ZRtBFeCF3E6)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Creating your first data analysis report using python and Power BI](https://medium.com/@sammatheus17/creating-your-first-data-analysis-report-using-python-and-power-bi-8c64b8dbe988)
+
+[Scraping your first website with scrapy](https://medium.com/@sammatheus17/scraping-your-first-website-with-scrapy-a2d2488ed2cd)
+
+
